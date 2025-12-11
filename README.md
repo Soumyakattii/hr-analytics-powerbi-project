@@ -1,4 +1,4 @@
-# 👥 HR Analytics – Power BI
+# HR Analytics – Power BI
 
 ## *Project Objective*
 This project studies employee structure and attrition.  
