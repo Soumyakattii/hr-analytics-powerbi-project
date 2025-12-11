@@ -28,8 +28,8 @@ The aim is to understand which departments or age groups face more attrition and
 
 ## *Dashboard*
 - ![HR Analytics Dashboard](dashboard.png)
-[Download Dashboard PDF](.hr-analytics-dashboard.pdf)
-[Download PBIX File](.hr-analytics-dashboard.pbix)
+[Download Dashboard PDF](hr-analytics-dashboard.pdf)
+[Download PBIX File](hr-analytics-dashboard.pbix)
 
 ---
 
